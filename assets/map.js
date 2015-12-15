@@ -80,12 +80,12 @@ var areaList = [];
 var output = document.getElementById("output");
 output.value = "";
 
-L.tileLayer('Map/{z}/{x}/{y}.png', {
+L.tileLayer('assets/images/map/{z}/{x}/{y}.png', {
     minZoom: 3,
     maxZoom: 8,
     attribution: 'Map data',
     noWrap: true,
-    tms: true,
+    tms: true
 }).addTo(map);
 
 var drawnItems = new L.FeatureGroup();
