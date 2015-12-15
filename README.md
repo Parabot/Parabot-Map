@@ -1,3 +1,3 @@
 # The Parabot map
 
-_Credits: Thanks to [Explv](https://github.com/Explv/Explv.github.io)_
+_Credits: Based on [Explv](https://github.com/Explv/Explv.github.io)_
